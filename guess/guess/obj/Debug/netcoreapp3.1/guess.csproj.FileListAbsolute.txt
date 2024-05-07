@@ -1,0 +1,13 @@
+C:\Users\pyuva\OneDrive\Desktop\hangman\guess\guess\bin\Debug\netcoreapp3.1\guess.exe
+C:\Users\pyuva\OneDrive\Desktop\hangman\guess\guess\bin\Debug\netcoreapp3.1\guess.deps.json
+C:\Users\pyuva\OneDrive\Desktop\hangman\guess\guess\bin\Debug\netcoreapp3.1\guess.runtimeconfig.json
+C:\Users\pyuva\OneDrive\Desktop\hangman\guess\guess\bin\Debug\netcoreapp3.1\guess.runtimeconfig.dev.json
+C:\Users\pyuva\OneDrive\Desktop\hangman\guess\guess\bin\Debug\netcoreapp3.1\guess.dll
+C:\Users\pyuva\OneDrive\Desktop\hangman\guess\guess\bin\Debug\netcoreapp3.1\guess.pdb
+C:\Users\pyuva\OneDrive\Desktop\hangman\guess\guess\obj\Debug\netcoreapp3.1\guess.AssemblyInfoInputs.cache
+C:\Users\pyuva\OneDrive\Desktop\hangman\guess\guess\obj\Debug\netcoreapp3.1\guess.AssemblyInfo.cs
+C:\Users\pyuva\OneDrive\Desktop\hangman\guess\guess\obj\Debug\netcoreapp3.1\guess.csproj.CoreCompileInputs.cache
+C:\Users\pyuva\OneDrive\Desktop\hangman\guess\guess\obj\Debug\netcoreapp3.1\guess.dll
+C:\Users\pyuva\OneDrive\Desktop\hangman\guess\guess\obj\Debug\netcoreapp3.1\guess.pdb
+C:\Users\pyuva\OneDrive\Desktop\hangman\guess\guess\obj\Debug\netcoreapp3.1\guess.genruntimeconfig.cache
+C:\Users\pyuva\OneDrive\Desktop\hangman\guess\guess\obj\Debug\netcoreapp3.1\guess.csproj.AssemblyReference.cache
