@@ -7,6 +7,8 @@ class Program
         Random random = new Random();
 
         int attempts = 10;
+        int[] repeat = new int[26];
+
         while (attempts > 0)
         {
             string[] words = { "cat", "dog", "kittens", "puppies", "bunny" };
@@ -16,6 +18,7 @@ class Program
             {
                 guessedWord[i] = '_';
             }
+            
 
             while (true)
             {
@@ -26,6 +29,7 @@ class Program
                 Console.WriteLine("Attempts left: " + attempts);
                 Console.Write("Enter a letter: ");
                 char letter = Console.ReadKey().KeyChar;
+                int letterIndex = letter - 'a';
                 Console.WriteLine();
 
                 bool found = false;
@@ -37,6 +41,23 @@ class Program
                         found = true;
                     }
                 }
+
+                if(!char.IsLetter(letter))
+                {
+                    Console.WriteLine("don't repeat the same letter");
+                    continue;
+                }
+
+                if (repeat[letterIndex] > 0)
+                {
+                    Console.WriteLine("You already guessed the letter '" + letter + "'. Try a different letter.");
+                    continue;
+                }
+                else
+                {
+                   repeat[letterIndex]++;
+                }
+
 
                 if (!found)
                 {
